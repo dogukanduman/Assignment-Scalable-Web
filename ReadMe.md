@@ -1,7 +1,4 @@
 # Scalable Web
-This application has developed for <strong>WAES software developer</strong> assigment
-	
-## Assignment
 
 * Provide 2 http endpoints that accepts JSON base64 encoded binary data on both endpoints
    
